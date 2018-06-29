@@ -1,2 +1,1 @@
-# ahk
-Auto Hot Key
+Nothing can read.
